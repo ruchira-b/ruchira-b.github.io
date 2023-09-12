@@ -2,7 +2,7 @@
 
 ### Projects
 ## Data Science Projects
-[https://ruchira-b.github.io/CriminalJusticeDS.ipynb]
+[https://github.com/ruchira-b/ruchira-b.github.io.git/CriminalJusticeDS.ipynb]
 - project 2
   - project 3
 ## Econ Projects
