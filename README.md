@@ -2,7 +2,7 @@
 
 ### Projects
 ## Data Science Projects
-[https://ruchira-b.github.io/59_Biases_in_Criminal_Sentencing (1).ipynb]
+[https://ruchira-b.github.io/CriminalJusticeDS]
 - project 2
   - project 3
 ## Econ Projects
